@@ -1,0 +1,17 @@
+{
+  "name": "Gym Progress Tracker",
+  "short_name": "Gym Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#1b4332",
+  "description": "Simple offline gym progress tracker",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
